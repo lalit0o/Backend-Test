@@ -1,5 +1,16 @@
 ## Mini Backend for Testing
 
+To run this project properly, you need to install git and node js
+
+```
+https://git-scm.com/
+```
+And
+```
+https://git-scm.com/
+```
+
+
 Simple backend built with Express to test HTTP requests (e.g. from an ESP32 or Postman).
 
 ## Setup
